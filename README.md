@@ -3,4 +3,4 @@ Practice
 
 Hi People!
 
-I am here to practice python coding on Bioinformatics. Hope this continues. Kudos.
+I am here to practice python coding on Bioinformatics. Looking closely at Next Generation Sequencing. Hope this continues. Kudos.
